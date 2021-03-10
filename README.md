@@ -4,6 +4,11 @@
   - useContext()
   - useReducer()   
 
+![exp](https://user-images.githubusercontent.com/69110329/110701133-b2608d80-81e8-11eb-8598-1ed76c11d83d.gif)
+
+![exptracker](https://user-images.githubusercontent.com/69110329/110701046-96f58280-81e8-11eb-8562-1d29d3286090.png)
+
+
 
 # Getting Started with Create React App
 
@@ -39,6 +44,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![exp](https://user-images.githubusercontent.com/69110329/110701103-a96fbc00-81e8-11eb-9ffd-1aaec4121d9a.gif)
+![exp](https://user-images.githubusercontent.com/69110329/110701120-ae347000-81e8-11eb-9448-08778c84f336.gif)
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
