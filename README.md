@@ -1,8 +1,8 @@
 # MINATURE PROJECT TO SHOW USE OF 
 
 - React hooks:
-  - useContext()
-  - useReducer()   
+  - ```useContext()```
+  - ```useReducer()```   
 
 ![exp](https://user-images.githubusercontent.com/69110329/110701133-b2608d80-81e8-11eb-8598-1ed76c11d83d.gif)
 
