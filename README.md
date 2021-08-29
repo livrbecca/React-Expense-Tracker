@@ -4,6 +4,9 @@
   - ```useContext()```
   - ```useReducer()```   
 
+
+- App that allows the user to keep track of their expenses.
+
 ![exp](https://user-images.githubusercontent.com/69110329/110701133-b2608d80-81e8-11eb-8598-1ed76c11d83d.gif)
 
 ![exptracker](https://user-images.githubusercontent.com/69110329/110701046-96f58280-81e8-11eb-8562-1d29d3286090.png)
