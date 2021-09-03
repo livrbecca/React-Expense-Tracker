@@ -1,4 +1,4 @@
-# MINATURE PROJECT TO SHOW USE OF 
+# Expense Tracker
 
 - React hooks:
   - ```useContext()```
